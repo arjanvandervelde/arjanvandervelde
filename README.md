@@ -4,4 +4,4 @@ Systems engineer and software architect working across distributed data systems,
 
 Ph.D. in Bioinformatics. Currently Senior Software Architect at Paradigm4.
 
-Most current professional work is in private repositories.
+Most current professional work is not represented here.
